@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sravanthi Rani</h1>
 
 <h3 align="center">🌱 Computer Science student passionate about Full-Stack Development, Web + AI, and improving problem-solving skills through DSA while staying industry-ready.</h3>
+<p align="center">
+  📫 Reach me at: <a href="mailto:sravanthiranianupoju@gmail.com">sravanthiranianupoju@gmail.com</a>
+</p>
+
 
 <br />
 
